@@ -1,0 +1,28 @@
+{
+  "name": "Face-API.js",
+  "version": "1.0.0",
+  "description": "A simple implementation of a real time face recognition library Face-API.js",
+  "main": "face-api.min.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mihailo-maksa/face-api.git"
+  },
+  "keywords": [],
+  "author": "Mihailo Maksa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mihailo-maksa/face-api/issues"
+  },
+  "homepage": "https://github.com/mihailo-maksa/face-api#readme",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "face-api.js": "^0.22.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
